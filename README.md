@@ -1,4 +1,6 @@
-# GMT351_TEAM#TRACKER - Where are you?
+# GMT351_TEAM
+# WHERE ARE YOU?
+
 ### Group Members
 - 21632599 Aytaç ESKİCİ
 - 21733103 Pınar HAZAN
