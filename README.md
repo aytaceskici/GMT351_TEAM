@@ -1,4 +1,4 @@
-# GMT351_TEAM
+# GMT351_TEAM 
 # WHERE ARE YOU?
 
 ### Group Members
@@ -29,6 +29,6 @@
 - The location of user is found instantly with the Geolocation API. The route followed by instant location tracking is displayed on a map.
 
 
-------------
+-------------
 
 #### In both methods, parameters such as the length and duration of the route can be presented to the user. Location-based inquiries can be made on the route.
